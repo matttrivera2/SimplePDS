@@ -1,0 +1,140 @@
+body{
+	background-color:  #ececec;
+	padding-top: 25px;
+}
+nav span{
+	font-size: 24px;
+}
+span i{
+color:  #F5AFBE;
+}
+
+ul{
+	float: right;
+	color: #333333;
+	
+}
+
+nav li{
+	display: inline-block;
+	margin: 0 40px;
+	float: right;
+}
+
+h1{ 
+	font-family: "Lobster", cursive; font-size: 24px;}
+
+header{
+	text-align: center;}
+
+header span{
+	color: #F5AFBE;
+}
+
+#sunset{
+	width: 99%;
+	padding: 0 5px;
+	text-align: center;
+}
+
+#sunset img{
+	width: 100%;
+	height: 250px;
+	border-radius: 6px;
+}
+
+.info{
+	width: 40%;
+	float: left;
+	margin-left: 3%;
+	text-align: left;
+}
+
+.info h3{
+	color: #F5AFBE
+}
+
+.photos.first{
+	width: 10%;
+	margin-left: 5%;
+	float: left;
+	border-radius: 25px;
+	background-color: #fff;
+}
+
+.photos.first img{
+	width: 100%;
+	height: 100px;
+	border-radius: 25px;
+}
+
+.photos{
+	width: 10%;
+	margin-left: 5%;
+	float: left;
+	border-radius: 25px;
+	background-color: #fff;
+}
+
+.photos img{
+	width: 100%;
+	height: 100px;
+	border-radius: 25px;
+}
+
+.photos.last{
+	width: 10%;
+	margin-right: 25%;
+	float: right;
+	border-radius: 25px;
+	background-color: #fff;
+}
+
+.photos.last img{
+	width: 100%;
+	height: 100px;
+	border-radius: 25px;
+}
+
+.photos h3{
+	color: #8C98AE;
+}
+
+.photos h4{
+	color: #F5AFBE;
+}
+
+#Thanks{
+	text-align: center;
+	color: #F5AFBE;
+}
+
+#contact h3{
+	color: #F5AFBE;
+}
+
+#contact a{
+	color: #D7D7D7;
+}
+
+#contact input{
+
+}
+
+#contact text area{
+	background: #D7D7D7;
+}
+
+#social media{
+	margin-top: 130px;
+}
+
+#social i{
+	color: #2D2D2D;
+}
+
+.footer{
+	height: 300px;
+	color: #2D2D2D;
+	background: #F5AFBE
+}
